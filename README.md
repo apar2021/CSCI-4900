@@ -1,5 +1,9 @@
 # CDANET: Convolutional Dual-Attention Network for Brain Tumor Classification
 
+## Important Links
+- [CDANet Presentation](https://docs.google.com/presentation/d/113aG7IPbJ4JlwCnHFGENeLVvkC7v_OmkL6FyI-s4ygQ/edit?usp=sharing)
+- [Dataset on Kaggle](https://www.kaggle.com/datasets/ashkhagan/figshare-brain-tumor-dataset/)
+
 ## Project Overview
 CDANET (Convolutional Dual-Attention Network) is a deep learning model designed for accurate classification of brain MRI tumor images. It combines an EfficientNet backbone with attention mechanisms to achieve high-performance brain tumor classification into three categories: Meningioma, Glioma, and Pituitary tumors.
 
